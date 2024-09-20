@@ -1,0 +1,10 @@
+
+### Инструкции по установке:
+
+1. **Клонируйте репозиторий или создайте структуру папок вручную:**
+
+   ```bash
+   mkdir -p Extensions/skin_enhancement/scripts
+   touch Extensions/skin_enhancement/scripts/skin_enhancement.py
+   touch Extensions/skin_enhancement/install.py
+   touch Extensions/skin_enhancement/README.md
